@@ -1,0 +1,4 @@
+tqdm==4.25.0
+dlib==19.15.0
+face_recognition==1.2.3
+imutils==0.5.1

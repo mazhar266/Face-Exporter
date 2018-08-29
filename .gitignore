@@ -1,0 +1,75 @@
+faces_*/*
+images_*/*
+from_video/faces_*/*
+from_video/*.mp4
+from_video/**/*.mp4
+dataset/*
+!dataset/.gitkeep
+encodings.pickle
+!*/encodings.pickle
+face-recognition-opencv/*.mp4
+face-recognition-opencv/output/*
+face-recognition-opencv/videos/*
+!face-recognition-opencv/*/.gitkeep
+test.png
+
+# Compiled source #
+###################
+*.com
+*.class
+*.dll
+*.exe
+*.o
+*.so
+*.pyc
+*.py.orig
+
+# Packages #
+############
+# it's better to unpack these files and commit the raw source
+# git has its own built in compression methods
+*.7z
+*.dmg
+*.gz
+*.iso
+*.jar
+*.rar
+*.tar
+*.zip
+
+# Logs and databases #
+######################
+*.log
+*.sqlite
+
+# OS generated files #
+######################
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+Icon?
+ehthumbs.db
+Thumbs.db
+
+
+# project related #
+###############
+/nbproject
+.project
+.settings
+.settings/
+/.settings
+.buildpath
+.buildpath/
+/.buildpath
+/uploads
+/uploads/products
+*.sublime-*
+.idea
+.idea/
+*.codekit
+.codekit-cache
+config.codekit
+.sass-cache
