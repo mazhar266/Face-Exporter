@@ -1,4 +1,6 @@
 # USES: python export_faces.py --images-dir=images_folder --faces-dir=faces_folder
+# USES: python export_faces.py -i=images_folder -f=faces_folder
+
 import os
 import cv2
 import argparse

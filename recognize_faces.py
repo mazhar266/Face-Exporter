@@ -1,5 +1,6 @@
 # USAGE
-# python recognize_faces_image.py --encodings encodings.pickle --image examples/example_01.png 
+# python recognize_faces_image.py --encodings encodings.pickle --image examples/example_01.png
+# python recognize_faces_image.py -e encodings.pickle -i examples/example_01.png
 
 # import the necessary packages
 import face_recognition

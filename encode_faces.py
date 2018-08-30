@@ -1,5 +1,6 @@
 # USAGE
 # python encode_faces.py --dataset dataset --encodings encodings.pickle
+# python encode_faces.py -d dataset -e encodings.pickle
 
 # import the necessary packages
 from imutils import paths
