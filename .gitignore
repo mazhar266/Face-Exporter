@@ -4,8 +4,6 @@ images/***
 !images/.gitkeep
 tested/***
 !tested/.gitkeep
-encodings/*
-!encodings/.gitkeep
 from_video/faces_*/*
 from_video/*.mp4
 from_video/**/*.mp4
